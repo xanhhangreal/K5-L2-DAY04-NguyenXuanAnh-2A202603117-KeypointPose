@@ -1,0 +1,360 @@
+{
+  "000000005294.jpg": {
+    "prediction_key": "f1d1c1d333d0b45d98d2ba22cd85b09a16827e3d292fe3462153ec7ac20e89c8",
+    "reviewer": "assistant_visual_review",
+    "notes": "Newspapers hide faces and arms; do not infer wrists from confidence. Two foreground adults; distant small people not exhaustively counted.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "left_elbow": {
+            "v": 0
+          },
+          "right_elbow": {
+            "v": 0
+          },
+          "left_wrist": {
+            "v": 0
+          },
+          "right_wrist": {
+            "v": 0
+          },
+          "left_shoulder": {
+            "v": 1
+          },
+          "right_shoulder": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "left_elbow": {
+            "v": 0
+          },
+          "right_elbow": {
+            "v": 0
+          },
+          "left_wrist": {
+            "v": 0
+          },
+          "right_wrist": {
+            "v": 0
+          },
+          "left_shoulder": {
+            "v": 1
+          },
+          "right_shoulder": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          }
+        }
+      }
+    }
+  },
+  "000000323525.jpg": {
+    "prediction_key": "3ef2df1ed47434cb2efcf04e1838b6ab876a6dcc309d4629a514ac2685761a1d",
+    "reviewer": "assistant_visual_review",
+    "notes": "Three baseball participants. Catcher left side hidden by umpire; back-facing face landmarks unknown. Net overlays image; visible joints retained.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "nose": {
+            "v": 1
+          },
+          "left_ear": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "right_elbow": {
+            "v": 1
+          },
+          "right_wrist": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          }
+        }
+      },
+      "2": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "left_elbow": {
+            "v": 0
+          },
+          "left_wrist": {
+            "v": 0
+          },
+          "left_hip": {
+            "v": 0
+          },
+          "left_knee": {
+            "v": 0
+          },
+          "left_ankle": {
+            "v": 0
+          },
+          "right_shoulder": {
+            "v": 1
+          }
+        }
+      }
+    }
+  },
+  "000000373426.jpg": {
+    "prediction_key": "993131ad05d79ae7f8139426dd8a11882632ed5e9795ea86ff0ff27b30c25322",
+    "reviewer": "assistant_visual_review",
+    "notes": "Batter lower left leg hidden by catcher; catcher and umpire face away with helmets; hidden joint flags reviewed from image.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "nose": {
+            "v": 1
+          },
+          "left_knee": {
+            "v": 1
+          },
+          "left_ankle": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "right_elbow": {
+            "v": 1
+          },
+          "right_wrist": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          },
+          "right_ankle": {
+            "v": 1
+          }
+        }
+      },
+      "2": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "right_wrist": {
+            "v": 1
+          }
+        }
+      }
+    }
+  },
+  "face_300200.jpg": {
+    "prediction_key": "354f7d3032d8e3981844b6eddc7e97d7e0f7077b8947d3f67de5e1c3ac2e3535",
+    "reviewer": "assistant_visual_review",
+    "notes": "Mustache obscures lip contour; estimated mouth points occluded, eyes and nose visible.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "mouth_left": {
+            "v": 1
+          },
+          "mouth_right": {
+            "v": 1
+          },
+          "lip_upper": {
+            "v": 1
+          },
+          "lip_lower": {
+            "v": 1
+          }
+        }
+      }
+    }
+  },
+  "face_379585.jpg": {
+    "prediction_key": "7fe28126347812730cb341d6d502102ea02c4fe71d77af69c89649365ae9b858",
+    "reviewer": "assistant_visual_review",
+    "notes": "Both eyes, nose and outer lip contours visible; grayscale alone does not imply occlusion.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    }
+  },
+  "face_494518.jpg": {
+    "prediction_key": "206289e5de6b69d81f543c636580c665fa0c5a7322c65ae88768ecb7f28d1f51",
+    "reviewer": "assistant_visual_review",
+    "notes": "Both eyes, nose and outer lip contours visible; grayscale alone does not imply occlusion.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    }
+  },
+  "face_507166.jpg": {
+    "prediction_key": "9ac9fba0a970a28dcb86c94139adcdef4a3017af866900850cb20cb73d8a089d",
+    "reviewer": "assistant_visual_review",
+    "notes": "Both eyes, nose and outer lip contours visible; grayscale alone does not imply occlusion.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    }
+  },
+  "face_68290.jpg": {
+    "prediction_key": "12966a1d48dd6a9c2da768debdff2c88f89946d9e78fd76a25966dc698b6a178",
+    "reviewer": "assistant_visual_review",
+    "notes": "Dense beard hides mouth boundaries; no reliable outer contour, mark unknown rather than invent location.",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "mouth_left": {
+            "v": 0
+          },
+          "mouth_right": {
+            "v": 0
+          },
+          "lip_upper": {
+            "v": 0
+          },
+          "lip_lower": {
+            "v": 0
+          }
+        }
+      }
+    }
+  }
+}

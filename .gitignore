@@ -1,4 +1,7 @@
 .env
+/.lab4-auto/
+/automation_previews/
+/automation_exports/
 .env.*
 !.env.example
 __pycache__/
@@ -26,3 +29,6 @@ person_keypoints_train2017.json
 # Ground truth chỉ coach giữ
 coach_gt/
 *_gt.json
+
+# Local assignment backup (not a submission artifact)
+/src/exports/assignment.json.save

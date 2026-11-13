@@ -1,0 +1,800 @@
+{
+  "000000023424.jpg": {
+    "prediction_key": "ea72a94a66fb3ff19f6ab2400940828d9064c0a1952c5aadb6750a28fd0e7380",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "left_wrist": {
+            "v": 0
+          },
+          "left_knee": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          },
+          "right_wrist": {
+            "xy": [
+              548,
+              207
+            ],
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "left_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "left_elbow": {
+            "v": 0
+          },
+          "left_wrist": {
+            "v": 0
+          },
+          "left_hip": {
+            "v": 0
+          },
+          "left_knee": {
+            "v": 0
+          },
+          "left_ankle": {
+            "v": 0
+          },
+          "left_shoulder": {
+            "v": 1
+          }
+        }
+      },
+      "2": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          }
+        }
+      },
+      "3": {
+        "default_v": 2,
+        "points": {
+          "right_ear": {
+            "v": 1
+          },
+          "right_shoulder": {
+            "v": 1
+          },
+          "right_elbow": {
+            "v": 1
+          },
+          "right_wrist": {
+            "v": 1
+          },
+          "left_knee": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          },
+          "left_ankle": {
+            "v": 1
+          },
+          "right_ankle": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Bốn đề xuất người gồm người quay lưng và ba người nhỏ phía sau. Giữ vì bbox cao 64–196 px; nhóm người nhỏ sát ngưỡng và bị che cần người dùng/coach đối chiếu, số lượng không được ép theo tổng 20 của README. Mặt người quay lưng v=0."
+  },
+  "000000043500.jpg": {
+    "prediction_key": "cfc79539b6476acb582f768277da933a54e25fba93666d4ea8fa9bece8defe72",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "right_eye": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "left_knee": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          },
+          "left_ankle": {
+            "v": 1
+          },
+          "right_ankle": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "left_wrist": {
+            "v": 1
+          },
+          "right_wrist": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "left_ankle": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Hai người làm việc trên tàu. Người ngoài quay lưng; mặt không thấy. Cầu thang và thanh chắn che một phần chân/tay. Vị trí hông và đầu gối dưới quần còn là ước lượng."
+  },
+  "000000057978.jpg": {
+    "prediction_key": "4603595b3775c62439d516dc59a48f371b8d9b9f38b800f4566f9d40315f0e8f",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_ankle": {
+            "v": 1
+          },
+          "right_ankle": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Một người dưới ô; chân bị đá che một phần. Chi tiết mặt tối và nhỏ, độ chính xác mắt/tai còn hạn chế."
+  },
+  "000000103970.jpg": {
+    "prediction_key": "f184661816a7eccba526cd767e352dc4e880a456e6f1cbd3721509a9004de522",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_ear": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Một người lướt sóng; lượt 640 khắc phục tách thân/chân ở lượt 1280. Hai cổ tay và hai cổ chân nằm trên người, không còn skeleton trùng."
+  },
+  "000000150192.jpg": {
+    "prediction_key": "befc3e5a0b4333dbbddbeb9dcdcf5b7e9e56a5def24ad3e4e6dae6d6994df8a2",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_hip": {
+            "v": 0
+          },
+          "right_hip": {
+            "v": 0
+          },
+          "left_knee": {
+            "v": 0
+          },
+          "right_knee": {
+            "v": 0
+          },
+          "left_ankle": {
+            "v": 0
+          },
+          "right_ankle": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 1
+          },
+          "left_ear": {
+            "v": 1
+          },
+          "left_elbow": {
+            "v": 1
+          },
+          "left_wrist": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "left_wrist": {
+            "v": 0
+          },
+          "right_wrist": {
+            "v": 0
+          },
+          "left_hip": {
+            "v": 0
+          },
+          "right_hip": {
+            "v": 0
+          },
+          "left_knee": {
+            "v": 0
+          },
+          "right_knee": {
+            "v": 0
+          },
+          "left_ankle": {
+            "v": 0
+          },
+          "right_ankle": {
+            "v": 0
+          },
+          "nose": {
+            "xy": [
+              425,
+              116
+            ],
+            "v": 2
+          },
+          "left_eye": {
+            "xy": [
+              433,
+              91
+            ],
+            "v": 2
+          },
+          "right_eye": {
+            "xy": [
+              402,
+              91
+            ],
+            "v": 2
+          }
+        }
+      }
+    },
+    "note": "Người trước bị bàn che từ hông xuống và che cổ tay: đặt v=0. Chỉnh ba điểm mặt bị model đặt cao. Người ngồi phía sau sát ngưỡng 60 px, chi dưới bàn khó xác định; người bên cạnh nhỏ và bị che có nguy cơ bỏ sót. Không gán người trên màn hình."
+  },
+  "000000205650.jpg": {
+    "prediction_key": "e4f9b0cbca74cb7c7a9b81c598efc932236ff42217762d79232053a299f64f33",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "left_ear": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Một nhân viên trên cửa tàu. Hai bàn tay gần nhau; hông dưới áo và tai phía xa cần suy đoán vị trí."
+  },
+  "000000240340.jpg": {
+    "prediction_key": "ebb49e5061532a47bea0281029a1aea48a3e175f045cced99b3797d10eb0ca32",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "right_ankle": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Một người ngồi xe máy. Chân bên phải của người bị xe che một phần; giữ điểm gối, đánh dấu cổ chân bị che."
+  },
+  "000000261732.jpg": {
+    "prediction_key": "2659edd1113eba18cf7210c730c40fcec8fa5540ed8e7855aa51edde95fc582c",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_ear": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Một vận động viên tennis trên không; tay trái gập gần ngực. Giữ trái/phải theo người; tai phía xa khó thấy."
+  },
+  "000000332273.jpg": {
+    "prediction_key": "85cd95c04d023cca926baddfa1f0db0bfe675b6a950c4e623d5521b592199b53",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "right_ankle": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "left_ear": {
+            "v": 1
+          },
+          "left_knee": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          },
+          "left_ankle": {
+            "v": 0
+          },
+          "right_ankle": {
+            "v": 0
+          }
+        }
+      },
+      "2": {
+        "default_v": 2,
+        "points": {
+          "right_eye": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "right_shoulder": {
+            "v": 1
+          },
+          "right_elbow": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 1
+          },
+          "right_wrist": {
+            "v": 0
+          }
+        }
+      }
+    },
+    "note": "Ba cầu thủ chồng lên nhau. Loại trùng bằng ảnh đầy đủ; mặt người trượt bị mũ che. Chân cầu thủ lao người bị người trước che; một số khớp v=0. Đây là ảnh khó nhất, các điểm khuất và chân bắt chéo chưa có ground truth để xác nhận."
+  },
+  "000000461389.jpg": {
+    "prediction_key": "2d9635600e9c09ee19df5e13f5ee0c0bf225c73af0e9e986062cfbc43c5c29be",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "nose": {
+            "v": 0
+          },
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "left_shoulder": {
+            "v": 0
+          },
+          "right_shoulder": {
+            "v": 0
+          },
+          "left_elbow": {
+            "v": 0
+          },
+          "right_elbow": {
+            "v": 0
+          },
+          "left_wrist": {
+            "v": 0
+          },
+          "right_wrist": {
+            "v": 0
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          }
+        }
+      },
+      "2": {
+        "default_v": 2,
+        "points": {
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Ba người, gồm hai người bị cắt phần trên. Bỏ cờ thấy cho đầu ngoài khung; người phía sau chỉ thấy rõ phần chân. Không kéo điểm về mép ảnh."
+  },
+  "000000469061.jpg": {
+    "prediction_key": "cc524b2c90d85561798196085ce412ab740cf870e26ae67b3f6373d6192c69bd",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "left_shoulder": {
+            "v": 1
+          },
+          "left_elbow": {
+            "v": 1
+          },
+          "left_wrist": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "left_eye": {
+            "v": 1
+          },
+          "right_eye": {
+            "v": 1
+          },
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          },
+          "left_hip": {
+            "v": 1
+          },
+          "right_hip": {
+            "v": 1
+          },
+          "right_knee": {
+            "v": 0
+          },
+          "right_ankle": {
+            "v": 0
+          },
+          "left_knee": {
+            "xy": [
+              277,
+              417
+            ],
+            "v": 2
+          },
+          "left_ankle": {
+            "xy": [
+              280,
+              516
+            ],
+            "v": 2
+          }
+        }
+      }
+    },
+    "note": "Hai người trượt tuyết. Mắt người lớn sau kính, tai dưới mũ; chân phải người lớn bị trẻ che, không đủ cơ sở đặt. Chỉnh chân trái nhìn thấy từ ảnh. Trẻ nghiêng sang phải ảnh, phía xa bị mũ che."
+  },
+  "000000516902.jpg": {
+    "prediction_key": "e609a6c13c9ecadb9c12a0d512a66e00425fc2dd644095f9bd5963cf3b2ea17b",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_ear": {
+            "v": 1
+          },
+          "right_ear": {
+            "v": 1
+          }
+        }
+      },
+      "1": {
+        "default_v": 2,
+        "points": {
+          "left_eye": {
+            "v": 0
+          },
+          "right_eye": {
+            "v": 0
+          },
+          "left_ear": {
+            "v": 0
+          },
+          "right_ear": {
+            "v": 0
+          },
+          "left_hip": {
+            "v": 0
+          },
+          "right_hip": {
+            "v": 0
+          },
+          "left_knee": {
+            "v": 0
+          },
+          "right_knee": {
+            "v": 0
+          },
+          "left_ankle": {
+            "v": 0
+          },
+          "right_ankle": {
+            "v": 0
+          },
+          "right_elbow": {
+            "v": 0
+          },
+          "right_wrist": {
+            "v": 0
+          },
+          "right_shoulder": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Hai người. Vận động viên phía trước có đủ thân/chân; người phía sau bị cắt đầu và bị che từ hông xuống. Các chân model dự đoán xuyên sang người trước được đặt v=0."
+  },
+  "face_141135.jpg": {
+    "prediction_key": "f15e5b0912c4c525fcef1134f6234278ef7fdb30ebe01ce9d4bfdd822ba1d4c2",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Mắt gần khép; các điểm mí nằm trên đường mí nhìn thấy. Không đổi mắt khép thành occluded."
+  },
+  "face_145621.jpg": {
+    "prediction_key": "d7c539b0947145a44cf3e1e1b3d55e66e444e1e5a748b04687753047cc627c12",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Mặt nghiêng sang trái ảnh, cả hai mắt còn nhìn thấy. Râu làm mép môi kém rõ; điểm môi dưới còn sai số model."
+  },
+  "face_279764.jpg": {
+    "prediction_key": "d75b155a238fa7e2a1a23e3c8a9327f9531eb51117b3bae4e3c56f716877c16c",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Tóc sát bên mặt; 13 điểm vẫn nhìn thấy. Ảnh mờ nên mép mí chỉ là ước lượng model."
+  },
+  "face_324513.jpg": {
+    "prediction_key": "15c979f4f283ef59734648b4572e177f857ca901c8506d7860477687225f1853",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {
+          "left_eye_outer": {
+            "v": 1
+          },
+          "left_eye_inner": {
+            "v": 1
+          },
+          "left_eye_upper": {
+            "v": 1
+          },
+          "left_eye_lower": {
+            "v": 1
+          },
+          "right_eye_outer": {
+            "v": 1
+          },
+          "right_eye_inner": {
+            "v": 1
+          },
+          "right_eye_upper": {
+            "v": 1
+          },
+          "right_eye_lower": {
+            "v": 1
+          }
+        }
+      }
+    },
+    "note": "Kính râm phản quang che cả hai mắt: tám điểm mắt v=1; vị trí ước lượng theo tròng kính."
+  },
+  "face_3348.jpg": {
+    "prediction_key": "8788287066b3c8ac3068dfbf8de0bb74b99bf3e6e7250d913eb4da0f6a794228",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Mặt gần thẳng, 13 điểm theo mắt và mép ngoài môi; left nằm bên phải ảnh."
+  },
+  "face_421231.jpg": {
+    "prediction_key": "5390c53d67ed343ea6dcbe452091485c65710d040fa8d99f5ff21081139115b0",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Mặt hơi nghiêng/cúi, hai mắt và miệng đều nhìn thấy; ánh xạ trái/phải phù hợp."
+  },
+  "face_442231.jpg": {
+    "prediction_key": "3beb7f2034de383f46fdf8f9f2fb50ce37f27cc9a41110fb12b38cd94be29e1b",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Mặt nghiêng, hai mắt và khóe miệng còn trong ảnh; thức ăn chưa che miệng."
+  },
+  "face_514826.jpg": {
+    "prediction_key": "2829eca6966bbd215e3a07360761b4fa9d78e166bb94c93dcfd91ea319d1eb44",
+    "reviewer": "assistant_visual_review",
+    "objects": {
+      "0": {
+        "default_v": 2,
+        "points": {}
+      }
+    },
+    "note": "Kính trong: giữ các điểm mắt v=2 vì còn thấy mắt; ảnh tối và phản chiếu gây sai số."
+  }
+}
